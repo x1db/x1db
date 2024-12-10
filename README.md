@@ -8,7 +8,7 @@ Desenvolvedor Full Stack apaixonado por tecnologia e inovação. Sempre buscando
 
 **Localização:** Fortaleza, CE, Brasil  
 **Telefone:** (85) 99929-2118  
-**Email:** [contato@x1.dev.br](mailto:contato@x1.dev.br)  
+**Email:** [contato@ronis.com.br](mailto:contato@ronis.com.br)  
 **Disponibilidade:** Remoto, hibrido ou presencial.  
 
 ---
@@ -32,8 +32,13 @@ Apaixonado por tecnologia e movido por desafios, acumulei mais de uma década de
 
 ## Experiência Profissional
 
+### Desenvolvedor Full Stack - PliQ Pesquisas
+**Agosto de 2024 - Atualmente**
+
+- Desenvolvimento e manutenção de aplicativos para automação de processos.
+
 ### Desenvolvedor Full Stack - Freelancer
-**Julho de 2020 - Presente**
+**Julho de 2020 - Julho de 2024**
 
 - Projeto e implementação de sistemas complexos e bancos de dados de alta performance.
 - Desenvolvimento de aplicativos móveis e web com PHP, MySQL, React Native, JavaScript (Node.js) e MongoDB.
